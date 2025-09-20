@@ -1,0 +1,176 @@
+MIME-Version: 1.0
+Date: Sat, 20 Sep 2025 05:22:23 -0400
+Message-ID: <CA+ZeS89OxU_qe110rdW7qZju5AUfh_AsbfKmL=7tqejx9zy2vw@mail.gmail.com>
+Subject: Website 
+From: Jolanda <jolandaandmike@gmail.com>
+To: Jolanda <jolandaandmike@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000baa25d063f381f8f"
+
+--000000000000baa25d063f381f8f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html lang=3D"en">
+<head>
+<meta charset=3D"utf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1" =
+/>
+<title>J&M One Stop Shop</title>
+<meta name=3D"description" content=3D"An international store offering diver=
+se
+products from around the world." />
+<link rel=3D"stylesheet" href=3D"styles.css" />
+</head>
+<body>
+<header class=3D"site-header">
+<div class=3D"brand">
+<h1>J&amp;M One Stop Shop</h1>
+<p class=3D"tagline">American =E2=80=A2 African =E2=80=A2 Asian =E2=80=A2 L=
+atino =E2=80=A2 Caribbean</p>
+</div>
+<nav class=3D"top-nav">
+<a href=3D"#gallery">Products</a>
+<a href=3D"#about">About</a>
+<a href=3D"#contact">Contact</a>
+</nav>
+</header>
+
+<main>
+<section id=3D"hero" class=3D"hero">
+<div class=3D"hero-inner">
+<h2>Welcome =E2=80=94 An international store offering diverse products from=
+ around
+the world</h2>
+<p>Fast, colorful, and easy to explore =E2=80=94 discover food, gifts, and =
+home
+items from many countries.</p>
+<a href=3D"#gallery" class=3D"btn">See Products</a>
+</div>
+</section>
+
+<section id=3D"gallery" class=3D"gallery-section">
+<h2>Featured Products</h2>
+<div class=3D"gallery-grid">
+<!-- Replace placeholders src with your real image filenames when uploading
+images -->
+<div class=3D"card"><img src=3D"images/product1.jpg" alt=3D"Product
+1"><p>Caribbean Spices</p></div>
+<div class=3D"card"><img src=3D"images/product2.jpg" alt=3D"Product
+2"><p>International Snacks</p></div>
+<div class=3D"card"><img src=3D"images/product3.jpg" alt=3D"Product 3"><p>H=
+ome
+Decor</p></div>
+<div class=3D"card"><img src=3D"images/product4.jpg" alt=3D"Product 4"><p>E=
+vent
+Decorations</p></div>
+</div>
+<p class=3D"small">Tip: upload real product photos to the `images/` folder
+and use the same filenames.</p>
+</section>
+
+<section id=3D"about" class=3D"about-section">
+<h2>About J&amp;M One Stop Shop</h2>
+<p>We welcome everyone. Our international store brings products from around
+the world =E2=80=94 quality, variety, and friendly service.</p>
+<ul>
+<li>Address: 5790 Sunset Pike, Chambersburg, PA</li>
+<li>Phone: (717) 377-6038</li>
+<li>Email: jolandaandmike@gmail.com</li>
+</ul>
+</section>
+
+<section id=3D"contact" class=3D"contact-section">
+<h2>Contact</h2>
+<p>Questions? Reach us at <a href=3D"mailto:jolandaandmike@gmail.com">
+jolandaandmike@gmail.com</a> or call (717) 377-6038.</p>
+<p>Follow us on Facebook: <a href=3D"#">J&amp;M One Stop Shop</a></p>
+</section>
+</main>
+
+<footer class=3D"site-footer">
+<p>=C2=A9 J&amp;M One Stop Shop =E2=80=A2 An international store offering d=
+iverse
+products</p>
+</footer>
+
+<script>
+// small JS to lazy-load images (keeps site fast)
+document.addEventListener('DOMContentLoaded', function () {
+const imgs =3D document.querySelectorAll('.gallery-grid img');
+imgs.forEach(img =3D> {
+img.loading =3D 'lazy';
+});
+});
+</script>
+</body>
+</html>
+
+--000000000000baa25d063f381f8f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div>&lt;!doctype html&gt;<br>&lt;html lang=3D&quot;en&quot;&gt;<br>&lt;hea=
+d&gt;<br>  &lt;meta charset=3D&quot;utf-8&quot; /&gt;<br>  &lt;meta name=3D=
+&quot;viewport&quot; content=3D&quot;width=3Ddevice-width,initial-scale=3D1=
+&quot; /&gt;<br>  &lt;title&gt;J&amp;M One Stop Shop&lt;/title&gt;<br>  &lt=
+;meta name=3D&quot;description&quot; content=3D&quot;An international store=
+ offering diverse products from around the world.&quot; /&gt;<br>  &lt;link=
+ rel=3D&quot;stylesheet&quot; href=3D&quot;styles.css&quot; /&gt;<br>&lt;/h=
+ead&gt;<br>&lt;body&gt;<br>  &lt;header class=3D&quot;site-header&quot;&gt;=
+<br>    &lt;div class=3D&quot;brand&quot;&gt;<br>      &lt;h1&gt;J&amp;amp;=
+M One Stop Shop&lt;/h1&gt;<br>      &lt;p class=3D&quot;tagline&quot;&gt;Am=
+erican =E2=80=A2 African =E2=80=A2 Asian =E2=80=A2 Latino =E2=80=A2 Caribbe=
+an&lt;/p&gt;<br>    &lt;/div&gt;<br>    &lt;nav class=3D&quot;top-nav&quot;=
+&gt;<br>      &lt;a href=3D&quot;#gallery&quot;&gt;Products&lt;/a&gt;<br>  =
+    &lt;a href=3D&quot;#about&quot;&gt;About&lt;/a&gt;<br>      &lt;a href=
+=3D&quot;#contact&quot;&gt;Contact&lt;/a&gt;<br>    &lt;/nav&gt;<br>  &lt;/=
+header&gt;<br><br>  &lt;main&gt;<br>    &lt;section id=3D&quot;hero&quot; c=
+lass=3D&quot;hero&quot;&gt;<br>      &lt;div class=3D&quot;hero-inner&quot;=
+&gt;<br>        &lt;h2&gt;Welcome =E2=80=94 An international store offering=
+ diverse products from around the world&lt;/h2&gt;<br>        &lt;p&gt;Fast=
+, colorful, and easy to explore =E2=80=94 discover food, gifts, and home it=
+ems from many countries.&lt;/p&gt;<br>        &lt;a href=3D&quot;#gallery&q=
+uot; class=3D&quot;btn&quot;&gt;See Products&lt;/a&gt;<br>      &lt;/div&gt=
+;<br>    &lt;/section&gt;<br><br>    &lt;section id=3D&quot;gallery&quot; c=
+lass=3D&quot;gallery-section&quot;&gt;<br>      &lt;h2&gt;Featured Products=
+&lt;/h2&gt;<br>      &lt;div class=3D&quot;gallery-grid&quot;&gt;<br>      =
+  &lt;!-- Replace placeholders src with your real image filenames when uplo=
+ading images --&gt;<br>        &lt;div class=3D&quot;card&quot;&gt;&lt;img =
+src=3D&quot;images/product1.jpg&quot; alt=3D&quot;Product 1&quot;&gt;&lt;p&=
+gt;Caribbean Spices&lt;/p&gt;&lt;/div&gt;<br>        &lt;div class=3D&quot;=
+card&quot;&gt;&lt;img src=3D&quot;images/product2.jpg&quot; alt=3D&quot;Pro=
+duct 2&quot;&gt;&lt;p&gt;International Snacks&lt;/p&gt;&lt;/div&gt;<br>    =
+    &lt;div class=3D&quot;card&quot;&gt;&lt;img src=3D&quot;images/product3=
+.jpg&quot; alt=3D&quot;Product 3&quot;&gt;&lt;p&gt;Home Decor&lt;/p&gt;&lt;=
+/div&gt;<br>        &lt;div class=3D&quot;card&quot;&gt;&lt;img src=3D&quot=
+;images/product4.jpg&quot; alt=3D&quot;Product 4&quot;&gt;&lt;p&gt;Event De=
+corations&lt;/p&gt;&lt;/div&gt;<br>      &lt;/div&gt;<br>      &lt;p class=
+=3D&quot;small&quot;&gt;Tip: upload real product photos to the `images/` fo=
+lder and use the same filenames.&lt;/p&gt;<br>    &lt;/section&gt;<br><br> =
+   &lt;section id=3D&quot;about&quot; class=3D&quot;about-section&quot;&gt;=
+<br>      &lt;h2&gt;About J&amp;amp;M One Stop Shop&lt;/h2&gt;<br>      &lt=
+;p&gt;We welcome everyone. Our international store brings products from aro=
+und the world =E2=80=94 quality, variety, and friendly service.&lt;/p&gt;<b=
+r>      &lt;ul&gt;<br>        &lt;li&gt;Address: 5790 Sunset Pike, Chambers=
+burg, PA&lt;/li&gt;<br>        &lt;li&gt;Phone: (717) 377-6038&lt;/li&gt;<b=
+r>        &lt;li&gt;Email: <a href=3D"mailto:jolandaandmike@gmail.com">jola=
+ndaandmike@gmail.com</a>&lt;/li&gt;<br>      &lt;/ul&gt;<br>    &lt;/sectio=
+n&gt;<br><br>    &lt;section id=3D&quot;contact&quot; class=3D&quot;contact=
+-section&quot;&gt;<br>      &lt;h2&gt;Contact&lt;/h2&gt;<br>      &lt;p&gt;=
+Questions? Reach us at &lt;a href=3D&quot;mailto:<a href=3D"mailto:jolandaa=
+ndmike@gmail.com">jolandaandmike@gmail.com</a>&quot;&gt;<a href=3D"mailto:j=
+olandaandmike@gmail.com">jolandaandmike@gmail.com</a>&lt;/a&gt; or call (71=
+7) 377-6038.&lt;/p&gt;<br>      &lt;p&gt;Follow us on Facebook: &lt;a href=
+=3D&quot;#&quot;&gt;J&amp;amp;M One Stop Shop&lt;/a&gt;&lt;/p&gt;<br>    &l=
+t;/section&gt;<br>  &lt;/main&gt;<br><br>  &lt;footer class=3D&quot;site-fo=
+oter&quot;&gt;<br>    &lt;p&gt;=C2=A9 J&amp;amp;M One Stop Shop =E2=80=A2 A=
+n international store offering diverse products&lt;/p&gt;<br>  &lt;/footer&=
+gt;<br><br>  &lt;script&gt;<br>    // small JS to lazy-load images (keeps s=
+ite fast)<br>    document.addEventListener(&#39;DOMContentLoaded&#39;, func=
+tion () {<br>      const imgs =3D document.querySelectorAll(&#39;.gallery-g=
+rid img&#39;);<br>      imgs.forEach(img =3D&gt; {<br>        img.loading =
+=3D &#39;lazy&#39;;<br>      });<br>    });<br>  &lt;/script&gt;<br>&lt;/bo=
+dy&gt;<br>&lt;/html&gt;</div>
+
+--000000000000baa25d063f381f8f--
